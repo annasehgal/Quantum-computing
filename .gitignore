@@ -1,0 +1,43 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# PDFs (like exported notes or assignments)
+*.pdf
+
+# Course-specific hidden folders
+/labs/
+/pdf/
+/final-presentation-report/
+/labs/*
+!/labs/.gitkeep
+/pdf/*
+!/pdf/.gitkeep
+/final-presentation-report/*
+!/final-presentation-report/.gitkeep
+
+# Sensitive project files and logs
+*.log
+*.env
+.env.*
+*.pem
+*.key
+*.crt
+*.p12
+*.cert
+*.cfg
+*.config
+*.ini
+*.bak
+*.swp
+*.tmp
+
+# Git-related safety
+.git/
+.gitattributes
