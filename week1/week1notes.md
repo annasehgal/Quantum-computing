@@ -1,5 +1,5 @@
 # Intro to qubits, complex numbers, Block Sphere
-
+#
 # What is Quantum Computing?
 * Quantum computing uses the principles of quantum physics to perform calculations, offering potential for solving problems that are intractable for classical computers. It leverages concepts like superposition and entanglement to process information in a way that classical computers cannot, potentially leading to faster or more efficient solutions. 
 
@@ -140,3 +140,5 @@ The number of transistors on a chip doubles approximately every two years, histo
 - Demonstrates fundamental quantum measurement impact.
 
 ---
+
+# Chapter 1: Complex Numbers
