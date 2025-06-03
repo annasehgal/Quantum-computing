@@ -21,6 +21,9 @@ Icon
 !/pdf/.gitkeep
 /final-presentation-report/*
 !/final-presentation-report/.gitkeep
+/to-do/
+/to-do/*
+/to-do/.gitkeep
 
 # Sensitive project files and logs
 *.log
