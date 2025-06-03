@@ -9,6 +9,8 @@
 ## Week 1: Introduction, complex numbers, qubits, and Bloch Sphere representation
 ## 1. Bloch Sphere
 
+![Bloch Sphere](https://upload.wikimedia.org/wikipedia/commons/9/99/Sphere_bloch.jpg)
+
 **Definition**:  
 The **Bloch Sphere** is a geometrical representation of the pure state space of a qubit, the fundamental unit of quantum information. It is used to visualize the state of a qubit as a point on or inside a sphere.
 
@@ -17,8 +19,6 @@ Helps in visualizing **superposition** and the effects of **quantum gates** on q
 
 **Key Concept**:  
 Every point on the surface of the sphere represents a possible pure qubit state.
-
-![Bloch Sphere PNG](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Bloch_sphere.svg/512px-Bloch_sphere.svg.png)
 
 ---
 
