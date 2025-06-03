@@ -80,3 +80,59 @@ The number of transistors on a chip doubles approximately every two years, histo
 
 > **Note**: Quantum computing is not a replacement for classical computing, but a powerful complement for certain tasks.
 
+## 7. Skepticism About Quantum Computing
+- Noise and decoherence grow exponentially with qubit count, threatening scalability.
+- Google's 2019 Quantum Supremacy experiment validates quantum advantage.
+- Error correction and noise mitigation remain critical research areas.
+
+## 8. Quantum Decoherence and Operational Challenges
+- Decoherence disrupts quantum information, requiring extreme cooling (~0 K).
+- Quantum chips are sensitive and error-prone.
+- Sustained quantum coherence is a major engineering challenge.
+
+## 9. Quantum Computing Architectures
+- Various qubit implementations: superconducting circuits, trapped ions, neutral atoms, cat qubits.
+- Hybrid quantum-classical computing frameworks like IBM Qiskit enable development.
+- Quantum outputs are probabilistic, requiring statistical validation.
+
+## 10. Quantum Mechanics Key Concepts
+- Particles exist as wavefunctions representing probabilities.
+- Measurement collapses these wavefunctions to definite states.
+
+## 11. Bits vs Qubits
+- Bits = 0 or 1.
+- Qubits = superpositions α|0⟩ + β|1⟩ with complex amplitudes.
+
+## 12. Superposition
+- Qubits represent multiple states simultaneously.
+- Measurement probabilistically collapses superpositions.
+
+## 13. Entanglement
+- Qubits share correlated states affecting each other instantaneously.
+- Essential for quantum communication and algorithms.
+
+## 14. Interference
+- Quantum states interfere constructively or destructively.
+- Algorithms exploit this to amplify correct results.
+
+## 15. Quantum Computing Workflow
+1. Initialize qubits to superposition.
+2. Apply phase shifts and gates.
+3. Use interference to enhance solution probabilities.
+4. Measure qubits to obtain results.
+5. Repeat for statistical confidence.
+
+## 16. Wave-Particle Duality and Slit Experiments
+
+### Types of Slits:
+1. **Single Slit:** Diffraction pattern from one narrow slit showing wave spreading.
+2. **Double Slit:** Interference pattern from two slits, illustrating wave-particle duality.
+3. **Multiple Slits:** Complex interference patterns from many slits (diffraction grating).
+4. **Variable Slit Width:** Changing slit width affects diffraction pattern size and intensity.
+
+### Double-Slit Experiment
+- Particles behave as waves when unmeasured, creating interference.
+- Measurement collapses wavefunction, destroying interference pattern.
+- Demonstrates fundamental quantum measurement impact.
+
+---
