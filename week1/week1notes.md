@@ -24,6 +24,8 @@ Every point on the surface of the sphere represents a possible pure qubit state.
 
 ## 2. Qubit (Quantum Bit)
 
+![Quantum State Visualization](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*w9516UckuSEBQdiUOoiHbQ.png)
+
 **Definition**:  
 A **qubit** is the basic unit of information in a quantum computer. Unlike a classical bit (which is either 0 or 1), a qubit can exist in a **superposition** of both 0 and 1 simultaneously.
 
